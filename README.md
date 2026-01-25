@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi, I'm Deepak 👋
 
-<!--
-**Deepak00619/Deepak00619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Software Engineer** with experience building **secure, scalable web applications** and backend systems using modern JavaScript technologies.
 
-Here are some ideas to get you started:
+I enjoy working on real-world problems, writing clean and maintainable code, and designing systems that balance **performance, security, and user experience**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React
+- Redux
+- JavaScript (ES6+)
+- HTML5, CSS3
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+- Oauth
+- Oauth2
+
+**Database**
+- MongoDB
+- Mysql
+- postgress
+
+**Cloud & DevOps**
+- AWS Lambda (event-driven functions, API integrations)
+- CI/CD workflows
+- PR automation & validation bots
+- Git & GitHub
+
+---
+
+## 🧠 Professional Experience (Skills)
+
+- Designing and maintaining RESTful APIs
+- Secure authentication and session management
+- Event-driven backend workflows using AWS Lambda
+- Pull request automation and CI validations
+- Writing clean, readable, and maintainable code
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 ShopKart – Full Stack MERN E-Commerce App
+A production-ready e-commerce web application built using the MERN stack.
+
+**Key Features**
+- User authentication & authorization
+- Product listing and cart functionality
+- Secure REST APIs
+- Responsive UI
+- Clean and maintainable architecture
+
+👉 Repository:  
+https://github.com/Deepak00619/shopkart-MERN-app
+
+---
+
+## 💡 What I Focus On
+
+- Building scalable backend systems
+- Writing secure and maintainable code
+- Designing clear API contracts
+- Creating smooth and predictable user experiences
+
+---
+
+## 🤝 Open To
+
+- Freelance projects
+- Contract work
+- Remote opportunities
+- Custom web application development
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Deepak00619
+
+Thanks for visiting my profile 🙂
