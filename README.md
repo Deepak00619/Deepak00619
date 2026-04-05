@@ -81,6 +81,6 @@ https://github.com/Deepak00619/shopkart-MERN-app
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Deepak00619
+- LinkedIn: https://www.linkedin.com/in/deepak-kumar-3a7970188
 
 Thanks for visiting my profile 🙂
